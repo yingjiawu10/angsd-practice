@@ -1,6 +1,6 @@
 ---
-title: "Untitled"
-author: "Author"
+title: "RMarkdown Rerender Practice"
+author: "Yingjia Wu"
 date: "`r format(Sys.time(), '%d %B %Y')`"
 output: 
   html_document: 
